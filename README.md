@@ -1,2 +1,0 @@
-# hillary.portfolio
-Personal Portfolio
